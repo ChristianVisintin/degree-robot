@@ -8,6 +8,8 @@ Developed by Christian Visintin
   - [Introduction](#introduction)
   - [Project Description](#project-description)
   - [Project Circuit](#project-circuit)
+    - [Circuit Components](#circuit-components)
+    - [Circuit Scheme](#circuit-scheme)
   - [Project Retrospective](#project-retrospective)
   - [License](#license)
 
@@ -49,7 +51,22 @@ Yes I know, this is a perfect example of *spaghetti-wires*.
 
 ## Project Circuit
 
-TODO
+### Circuit Components
+
+These components are required:
+
+- 2 DC motors
+- 2 Continuous Rotation Micro Servo - FS90R
+- 3 Ultrasonic Sensor - HC-SR04
+- 1 L293D Motor Driver
+- 1 Mini Pushbutton Switch
+- 1 10K Ohm Resistor
+- 1 Arduino UNO Rev. 3
+- 1 PowerBank 10,000 mA/h
+
+### Circuit Scheme
+
+![Circuit](img/wires.png)
 
 ---
 
