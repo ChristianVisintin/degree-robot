@@ -10,7 +10,6 @@ Developed by Christian Visintin
   - [Project Circuit](#project-circuit)
     - [Circuit Components](#circuit-components)
     - [Circuit Scheme](#circuit-scheme)
-  - [Project Retrospective](#project-retrospective)
   - [License](#license)
 
 ---
@@ -67,12 +66,6 @@ These components are required:
 ### Circuit Scheme
 
 ![Circuit](img/wires.png)
-
----
-
-## Project Retrospective
-
-TODO
 
 ---
 
